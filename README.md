@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+https://i.imgur.com/N6CUONO.gif
 
 
 ## Notes
